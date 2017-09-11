@@ -1,0 +1,100 @@
+header{
+	width: 100%;
+	height: .45rem;
+	background-color: red;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.logo{
+	float: left;
+    width: .29rem;
+    height: .45rem;
+    margin: 0 .15rem;
+    background-color: blue;
+}
+.sousuo{
+	width: 2.56rem;
+	height: .28rem;
+	background-color: pink;
+	float: left;
+	margin-top: .08rem;
+	margin-bottom: .08rem;
+	padding: .075rem .075rem 0.075rem .275rem;
+}
+.xiaoxi{
+	width: .49rem;
+	height: .28rem;
+	margin-top: .075rem;
+	background-color: yellowgreen;
+	float: right;
+}
+/* 本周开始 */
+.zhongjian{
+	background-color: #f3f3f3;
+	position: absolute;
+	top: .45rem;
+	left: 0	;
+	right: 0;
+	bottom: .49rem;
+	margin: auto;
+}
+.benzhou{
+	width: 100%;
+	height: .36rem;
+	background-color: blue;
+	padding: .1rem;
+}
+span{
+	height: 100%;
+	background-color: black;
+}
+.kuang{
+	width:100%;
+	background-color: orange;
+}
+.xiaokuang{
+	width: .93rem;
+	height: 1.18rem;
+	background-color: blue;
+	float: left;
+}
+.picture{
+	width: .94em;
+	height: .94em;
+	padding: 0 .141015rem;
+	float: left;
+	background-color: black;
+}
+.fenleizi{
+	width: 100%;
+	height: .24rem;
+	background-color: gold;
+	float: left;
+}
+/* 底部开始 */
+footer{
+	width: 100%;
+	height: .44rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: blue;
+}
+.dibufangkuai{
+	width: 25%;
+	height: 100%;
+	background-color: red;
+	float: left;
+}
+.tubiao{
+	width: .19em;
+	height: .19em;
+	background-color: yellowgreen;
+	margin: .064rem .37375rem .04rem .37375rem;
+}
+.ic-xi{
+	width: 100%;
+	height: .12rem;
+	background-color: white;
+}

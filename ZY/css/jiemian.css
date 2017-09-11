@@ -1,0 +1,219 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 401517 */
+  src: url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.eot');
+  src: url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.svg#iconfont') format('svg');
+}
+header{
+	width: 100%;
+	height: .45rem;
+	background-color: red;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.logo{
+	float: left;
+    width: .29rem;
+    height: .45rem;
+    margin: 0 .15rem;
+    background-color: blue;
+}
+.sousuo{
+	width: 2.29rem;
+	height: .28rem;
+	background-color: pink;
+	float: left;
+	margin-top: .08rem;
+	margin-bottom: .08rem;
+	padding: .075rem .075rem 0.075rem 0;
+}
+.wenben{
+	width: 100%;
+	height: 100%;
+	float: left;
+	background-color: black;
+}
+.sousuo-ic{
+	width: .27rem;
+	height: .27rem;
+	float: left;
+	margin-top: .09rem;
+}
+.sousuo-ic a{
+	font-size: .24rem;
+	margin-top: .015rem;
+	text-align: center;
+	float: left;
+}
+.xiaoxi{
+	width: .49rem;
+	height: .28rem;
+	margin-top: .075rem;
+	background-color: yellowgreen;
+	float: right;
+}
+#datukaishi{
+	width: 3.75rem;
+	height: 1.95rem;
+	background-color: black;
+}
+/* <!-- 圆开始 --> */
+#list{
+	width: 100%;
+	height: 1.096rem;
+	background-color: yellowgreen;
+	padding: .1rem .05rem;
+}
+#list li{
+	width: .9125rem;
+	height: .8rem;
+	background-color: pink;
+	float: left;
+	padding: 0 .05625rem;
+}
+#list li a{
+	display: block;
+	width: .75rem;
+	height: .75rem;
+	border-radius: 50%;
+	margin: 0 auto;
+	background-color: blue;
+}
+#list li span{
+	font-size: .15rem;
+	display: block;
+	text-align: center;
+}
+.fenjiexian{
+	width: 100%;
+	height: .095rem;
+	background-color: #f3f3f3;
+}
+/* 内容开始 */
+main{
+	background-color: #f3f3f3;
+	}
+#neirong{
+	width: 3.75rem;
+	height: 7.29rem;
+	background-color: red;
+	padding: 0 .1rem;
+}
+#neirong span{
+	/* width: 3.65rem; */
+	height: .3rem;
+	background-color: blue;
+	font-size: .15rem;
+	display: block;
+	padding-top: .11rem;
+}
+#neirong span a{
+	display: block;
+	font-size: .15rem;
+	float: right;
+	background-color: yellowgreen;
+}
+#neirong span:nth-child(2){
+	float: left;
+	display: block;
+}
+.xiangqing{
+	width: 3.75rem;
+	height: 5.99rem;
+	background-color: yellowgreen;
+	float: left;
+	display: block;
+}
+.qvkaituan{
+	width: 3.65rem;
+	height: 1.31rem;
+	background-color: red;
+	padding: .15rem 0;
+	border-bottom: .01rem #e0e0e0 solid;
+	float: left;
+	display: block;
+}
+.tupainqv{
+	width: 1rem;
+	height: 1rem;
+	background-color: pink;
+	display: block;
+	float: left;
+	margin-right: .1rem;
+}
+.right-qv{
+	width: 2.45rem;
+	height: 1rem;
+	background-color: blue;
+	margin-right: .1rem;
+	float: left;
+}
+.mingzi{
+	width: 2.45rem;
+	height: .375rem;
+	background-color: yellowgreen;
+	margin-bottom: .15rem;
+	display: block;
+	float: left;
+}
+.jiage{
+	width: 1.34226rem;
+	height: .43rem;
+	background-color: yellowgreen;
+	float: left;
+}
+.qian{
+	width: 100%;
+	height: .21rem;
+	background-color: red;
+	margin-bottom: .1rem;
+}
+.renshu{
+	width: 100%;
+	height: .12rem;
+	background-color: orange;
+}
+.kaituan{
+	width: .9em;
+	height: .47em;
+	background-color: yellowgreen;
+	float: right;
+	border-radius: .47rem;
+}
+.quanbu{
+	width: 2.30rem;
+	height: .3rem;
+	background-color: red;
+	margin: .15rem .825rem 0 .625rem;
+	float: right;
+	border-radius: .3rem;
+}
+/* 底部开始 */
+footer{
+	width: 100%;
+	height: .44rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: blue;
+}
+.dibufangkuai{
+	width: 25%;
+	height: 100%;
+	background-color: red;
+	float: left;
+}
+.tubiao{
+	width: .19em;
+	height: .19em;
+	background-color: yellowgreen;
+	margin: .064rem .37375rem .04rem .37375rem;
+}
+.ic-xi{
+	width: 100%;
+	height: .12rem;
+	background-color: white;
+}

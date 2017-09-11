@@ -1,0 +1,153 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 401517 */
+  src: url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.eot');
+  src: url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_401517_w2hjptq2lr6n7b9.svg#iconfont') format('svg');
+}
+.zhengge{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background-color: #f3f3f3;
+}
+.pictuerqv{
+	width: 100%;
+	height: 4.35rem;
+	background-color: black;
+	float: left;
+}
+.left-tu{
+	width: 2.9rem;
+	height: 4.35rem;
+	background-color: red;
+	margin: 0 .1rem;
+	float: left;
+}
+.right-tu{
+	width: .65rem;
+	height: 4.35rem;
+	background-color: white;
+	float: left;
+}
+.xiangqing{
+	width: 100%;
+	height: 2rem;
+	background-color: orange;
+	float: left;
+	padding: 0 .1rem;
+}
+.jieshao{
+	width: 100%;
+	height: .42rem;
+	background-color: white;
+	float: left;
+	margin-top: .19rem;
+}
+.jiage{
+	width: 100%;
+	height: .22rem;
+	background-color: yellowgreen;
+	float: left;
+	margin-top: .12rem;
+}
+.xiaoliangkuang{
+	width: 100%;
+	height: .13rem;
+	background-color: white;
+	float: left;
+	margin: .2rem 0 .1rem 0;
+}
+.peifu{
+	width: 100%;
+	height: .56rem;
+	background-color: blue;
+	padding: .17rem 0;
+	float: left;
+}
+.meili{
+	width: 3.75rem;
+	height: 2.095rem;
+	/* background-color: blue; */
+	float: left;
+	/* padding-bottom: .2rem; */
+}
+.shop-top{
+	width: 100%;
+	height: .05rem;
+	background-color: #f3f3f3;
+	float: left;
+}
+.meili-xinxi{
+	width: 100%;
+	height: 1.645rem;
+	background-color: white;
+	padding: 0 .1rem;
+	float: left;
+	padding-top: .1rem;
+}
+.shoucang{
+	width: 100%;
+	height: .47rem;
+	background-color: blue;
+	float: left;
+}
+.wan{
+	width: 100%;
+	height: .66rem;
+	background-color: green;
+	float: left;
+	margin-top: .09rem;
+	margin-bottom: .125rem;
+}
+.jindian{
+	width: 100%;
+	height: .3rem;
+	background-color: blue;
+	float: left;
+}
+.jindian a{
+	width: 1.5rem;
+	height: .3rem;
+	background-color: white;
+	float: left;
+	margin: 0 auto;
+	font-size: .18rem;
+	display: block;
+	text-align: center;
+	margin-left: 1.025rem;
+	line-height: .3rem;
+	border-radius: .15rem;
+	background-color: #f3f3f3;
+}
+/* 底部开始 */
+.shop-bottom{
+	width: 100%;
+	height: .57rem;
+	float: left;
+	background-color: pink;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.xiaokuang{
+	width: .62328rem;
+	height: .58em;
+	background-color: yellowgreen;
+	float: left;
+}
+.jiaru{
+	width: .94rem;
+	height: .58rem;
+	background-color: black;
+	float: left;
+}
+.heh{
+	width: .5rem;
+	height: 1rem;
+	float: right;
+}
